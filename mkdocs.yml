@@ -39,6 +39,7 @@ nav:
       - 最优化方法: Course/OptimizationMethods.md
       - 计算机系统基础: Course/ICS.md
       - 学术文献阅读与写作/科研实践（一）: Course/AcademicLiterature_ScientificResearch.md
+      - 网络攻防实战: Course/NetworkAttack.md
     - 大二下:
       - 算法设计与分析: Course/Algorithm.md
       - 图论与算法: Course/Graph.md
@@ -54,13 +55,13 @@ nav:
       - 编译原理: Course/Compiler.md 
       - 数据库概论: Course/Database.md
       - 数字逻辑与计算机组成: Course/DLCO.md
-      - 信息论基础: Course/InformationTheory.md
     - 大三下:
       - 数字逻辑与计算机组成实验: Course/DLCO_Lab.md 
       - 操作系统: Course/OS.md
       - 程序设计语言的解释器与虚拟机: Course/Interpreter.md
       - Rust程序设计: Course/Rust.md
       - 组合数学: Course/Combinatorics.md
+      - 信息论基础: Course/InformationTheory.md
     - 跨选课程:
       - 程序设计语言的形式语义: Course/FormalSemantics.md
       - 并发算法与理论: Course/Concurrency.md
