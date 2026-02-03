@@ -13,12 +13,14 @@
 讲课内容为：
 
 **Lambda calculus**
+
 - Untyped lambda calculus
 - Simply-typed lambda calculus
 - System F
 - System Omega
 
 **Imperative languages**
+
 - Operational semantics (small step semantics and big step semantics)
 - Hoare logic
 
@@ -40,6 +42,7 @@ else:
 以下摘自最后一堂课的 course review 的 PPT： 
 
 **If I show you a formal system, can you apply it to examples?**
+
 - Given a small-step operational semantics, write down a full execution path of a program from an initial state 
 - Given a big-step operational semantics, write down the derivation of a big-step transition
 - Given a type system, write down the typing derivation
@@ -47,6 +50,7 @@ else:
 - Given a definition of a property, tell whether it holds
 
 **If I tell you the informal meaning of a property, can you formalize it?**
+
 - Please do not use natural language in your formalization
 
 可参考 box 往年卷，出题形式基本类似。体感上今年比往年难。
@@ -63,4 +67,5 @@ else:
 - 是国内乃至世界内都少有教授的主题
 *但是：*
 - 比较hardcore/数学，有一定理解难度
+
 - ~~早八~~
