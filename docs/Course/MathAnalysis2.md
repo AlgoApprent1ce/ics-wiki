@@ -1,4 +1,8 @@
-![image](https://github.com/user-attachments/assets/becdf81c-349d-4702-9a54-a4aea0e8ca1c)## 课程概述
+!!! warning "25 级新增 AI 强基，该课程被移出信计培养方案"
+
+![image](https://github.com/user-attachments/assets/becdf81c-349d-4702-9a54-a4aea0e8ca1c)
+
+## 课程概述
 
 作为数学分析系列课程的第二学期，还是一样和AI学院一起上课
 
