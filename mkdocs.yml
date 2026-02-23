@@ -69,6 +69,7 @@ nav:
       - 程序设计语言的形式语义: Course/FormalSemantics.md
       - 并发算法与理论: Course/Concurrency.md
       - 机器学习导论: Course/ML_Intro.md
+      - 计算机程序的构造与解释: Course/SICP.md
   - OJ:
     - test: test.md
 
